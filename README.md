@@ -53,6 +53,7 @@ main.py: Main FastAPI application file.
 celery_worker.py: Celery worker file.
 requirements.txt: List of required Python packages.
 Dockerfile: Dockerfile for defining Docker image.
+docker-compose.yml`: Docker Compose file for orchestrating services.
 .dockerignore: Specifies files/directories to exclude from Docker build context.
 Conventions
 Follow PEP 8 coding style guidelines.
