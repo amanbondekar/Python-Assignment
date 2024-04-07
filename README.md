@@ -1,6 +1,6 @@
 # Python-Assignment
 Introduction
-Welcome to our project! This project aims to provide a solution for [brief description of what the project is meant for]. It is designed to [mention the main objectives or goals of the project].
+Welcome to our project!
 
 Tech Stack
 The project is built using the following technologies:
@@ -14,7 +14,7 @@ Follow these steps to set up the project locally:
 
 Clone the Repository:
 
-git clone (https://github.com/amanbondekar/Python-Assignment/)
+git clone (git@github.com:amanbondekar/Python-Assignment.git)
 Navigate to the Project Directory:
 
 
